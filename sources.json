@@ -1,0 +1,8 @@
+[
+  { "id": "aecom", "kind": "smartrecruiters", "board": "AECOM2", "name": "AECOM" },
+  { "id": "egis", "kind": "smartrecruiters", "board": "EgisGroup", "name": "Egis Group" },
+  { "id": "wight", "kind": "greenhouse", "board": "wight", "name": "Wight & Company", "country": "USA" },
+  { "id": "tkda", "kind": "lever", "board": "tkda", "name": "TKDA", "country": "USA" },
+  { "id": "hutker", "kind": "lever", "board": "hutker-architects-inc", "name": "Hutker Architects", "country": "USA" },
+  { "id": "hush", "kind": "lever", "board": "hush", "name": "HUSH", "country": "USA" }
+]

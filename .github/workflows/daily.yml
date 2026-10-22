@@ -1,0 +1,48 @@
+name: Refresh public architecture jobs
+
+on:
+  schedule:
+    # 06:17 Asia/Dubai. Off the hour to reduce GitHub scheduling delays.
+    - cron: '17 2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-jobs-feed
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    # This dedicated repository MUST stay public: standard public runners are
+    # free. Do not run this workflow against ArchHive's private website repo.
+    if: github.event.repository.private == false
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Test freshness, classification and expiry safeguards
+        run: node --test test/*.test.cjs
+      - name: Read official public employer posting APIs
+        id: crawl
+        continue-on-error: true
+        run: node crawl.cjs
+      - name: Publish refreshed feed
+        if: always()
+        run: |
+          if [ ! -f feed.json ]; then exit 1; fi
+          git config user.name 'archhive-jobs[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add feed.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh public architecture jobs'
+            git push
+          fi
+          node -e 'const f=require("./feed.json"); require("fs").appendFileSync(process.env.GITHUB_STEP_SUMMARY, "## Daily architecture jobs\n\nUpdated: "+f.generated_at+"\n\n"+f.jobs.length+" listings\n\n"+f.sources.map(s=>"- "+s.name+": "+s.status+" ("+s.count+" roles)").join("\n"))'
+      - name: Report a complete source outage
+        if: always() && steps.crawl.outcome == 'failure'
+        run: exit 1
