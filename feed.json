@@ -1,48 +1,48 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T08:02:11.343Z",
+  "generated_at": "2026-10-22T08:07:29.632Z",
   "sources": [
     {
       "id": "aecom",
       "name": "AECOM",
       "status": "ok",
-      "count": 151,
-      "checked_at": "2026-10-22T08:02:11.343Z"
+      "count": 155,
+      "checked_at": "2026-10-22T08:07:29.632Z"
     },
     {
       "id": "egis",
       "name": "Egis Group",
       "status": "ok",
-      "count": 53,
-      "checked_at": "2026-10-22T08:02:11.343Z"
+      "count": 54,
+      "checked_at": "2026-10-22T08:07:29.632Z"
     },
     {
       "id": "wight",
       "name": "Wight & Company",
       "status": "ok",
       "count": 2,
-      "checked_at": "2026-10-22T08:02:11.343Z"
+      "checked_at": "2026-10-22T08:07:29.632Z"
     },
     {
       "id": "tkda",
       "name": "TKDA",
       "status": "ok",
       "count": 3,
-      "checked_at": "2026-10-22T08:02:11.343Z"
+      "checked_at": "2026-10-22T08:07:29.632Z"
     },
     {
       "id": "hutker",
       "name": "Hutker Architects",
       "status": "ok",
       "count": 6,
-      "checked_at": "2026-10-22T08:02:11.343Z"
+      "checked_at": "2026-10-22T08:07:29.632Z"
     },
     {
       "id": "hush",
       "name": "HUSH",
       "status": "ok",
       "count": 0,
-      "checked_at": "2026-10-22T08:02:11.343Z"
+      "checked_at": "2026-10-22T08:07:29.632Z"
     }
   ],
   "jobs": [
@@ -60,7 +60,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -81,7 +81,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -102,7 +102,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -123,7 +123,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -145,7 +145,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -166,7 +166,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -187,7 +187,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -209,7 +209,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -231,7 +231,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -252,7 +252,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -274,7 +274,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -296,7 +296,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -318,7 +318,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -340,7 +340,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -362,7 +362,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -384,7 +384,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -406,7 +406,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -428,7 +428,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -450,7 +450,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -472,7 +472,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -494,7 +494,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -516,7 +516,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -538,7 +538,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "tkda",
       "source_name": "TKDA",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -560,7 +560,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -581,7 +581,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -602,7 +602,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -624,7 +624,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -646,7 +646,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -667,7 +667,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -688,7 +688,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -710,7 +710,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -732,7 +732,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -754,7 +754,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -775,7 +775,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -797,7 +797,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -819,7 +819,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -841,7 +841,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -863,7 +863,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -885,7 +885,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -907,7 +907,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -929,7 +929,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -951,7 +951,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -972,7 +972,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -994,7 +994,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1016,7 +1016,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1038,7 +1038,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1060,7 +1060,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1082,7 +1082,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1104,7 +1104,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1126,7 +1126,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1148,7 +1148,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1169,7 +1169,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1191,7 +1191,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1213,7 +1213,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1235,7 +1235,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1256,7 +1256,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1278,7 +1278,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1300,7 +1300,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1321,7 +1321,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1342,7 +1342,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1363,7 +1363,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1384,7 +1384,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1406,7 +1406,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1428,7 +1428,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1450,7 +1450,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1472,7 +1472,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1494,7 +1494,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1516,7 +1516,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1538,7 +1538,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1560,7 +1560,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1582,7 +1582,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1603,7 +1603,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1625,7 +1625,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1646,7 +1646,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1668,7 +1668,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1689,7 +1689,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1711,7 +1711,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "hutker",
       "source_name": "Hutker Architects",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1733,7 +1733,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1755,7 +1755,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1777,7 +1777,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1799,7 +1799,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1821,7 +1821,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1842,7 +1842,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1864,7 +1864,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1886,7 +1886,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1909,7 +1909,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1931,12 +1931,33 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
         "Landscape",
         "Hybrid"
+      ]
+    },
+    {
+      "id": "crawl-aecom-baabd05eb1ffab85",
+      "title": "Professional Urban Planner",
+      "firm_name": "AECOM",
+      "location": "Docklands, VIC, Australia",
+      "country": "Australia",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/AECOM2/744000150930549-professional-urban-planner",
+      "prize_or_salary": null,
+      "posted_at": "2026-09-22T04:31:18.215Z",
+      "created_at": "2026-10-22T08:07:29.632Z",
+      "source": "aecom",
+      "source_name": "AECOM",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "Urban Planning"
       ]
     },
     {
@@ -1953,7 +1974,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1976,7 +1997,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1999,7 +2020,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2021,7 +2042,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2043,7 +2064,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2065,7 +2086,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2087,7 +2108,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2109,7 +2130,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2131,7 +2152,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2153,7 +2174,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2175,7 +2196,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2197,7 +2218,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2219,7 +2240,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2241,7 +2262,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2263,7 +2284,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2285,7 +2306,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2307,7 +2328,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2328,7 +2349,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2351,7 +2372,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2373,7 +2394,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2395,7 +2416,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2417,7 +2438,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2439,7 +2460,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "tkda",
       "source_name": "TKDA",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2460,11 +2481,32 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "tkda",
       "source_name": "TKDA",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
         "Architecture"
+      ]
+    },
+    {
+      "id": "crawl-egis-746ebc6e8a1411b0",
+      "title": "Urban Planner",
+      "firm_name": "Egis Group",
+      "location": "Sri Vijaya Puram, AN, India",
+      "country": "India",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000149287399-urban-planner",
+      "prize_or_salary": null,
+      "posted_at": "2026-09-14T09:49:37.589Z",
+      "created_at": "2026-10-22T08:07:29.632Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "Urban Planning"
       ]
     },
     {
@@ -2481,7 +2523,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2502,7 +2544,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2524,7 +2566,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2546,7 +2588,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2567,7 +2609,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2589,7 +2631,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2611,7 +2653,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2633,7 +2675,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2654,7 +2696,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2675,7 +2717,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2696,7 +2738,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2717,7 +2759,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2739,7 +2781,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2761,7 +2803,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2783,7 +2825,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2805,7 +2847,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2827,7 +2869,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2849,7 +2891,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2871,7 +2913,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "hutker",
       "source_name": "Hutker Architects",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2893,7 +2935,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2915,7 +2957,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2937,7 +2979,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2959,7 +3001,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2981,7 +3023,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3003,7 +3045,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3025,7 +3067,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3047,7 +3089,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "hutker",
       "source_name": "Hutker Architects",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3069,7 +3111,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3090,7 +3132,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "hutker",
       "source_name": "Hutker Architects",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3112,7 +3154,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3133,7 +3175,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3155,7 +3197,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3177,7 +3219,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3199,7 +3241,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3220,7 +3262,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3241,7 +3283,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3262,7 +3304,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3283,7 +3325,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3304,11 +3346,55 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
         "Architecture"
+      ]
+    },
+    {
+      "id": "crawl-aecom-0ce0f072df6e990d",
+      "title": "Senior Urban Planner",
+      "firm_name": "AECOM",
+      "location": "Sydney, NSW, Australia",
+      "country": "Australia",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/AECOM2/744000145844159-senior-urban-planner",
+      "prize_or_salary": null,
+      "posted_at": "2026-08-26T22:24:00.339Z",
+      "created_at": "2026-10-22T08:07:29.632Z",
+      "source": "aecom",
+      "source_name": "AECOM",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "Urban Planning",
+        "Hybrid"
+      ]
+    },
+    {
+      "id": "crawl-aecom-56814ab6a17f186f",
+      "title": "Urban Planner",
+      "firm_name": "AECOM",
+      "location": "Sydney, NSW, Australia",
+      "country": "Australia",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/AECOM2/744000145843999-urban-planner",
+      "prize_or_salary": null,
+      "posted_at": "2026-08-26T22:21:54.119Z",
+      "created_at": "2026-10-22T08:07:29.632Z",
+      "source": "aecom",
+      "source_name": "AECOM",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "Urban Planning",
+        "Hybrid"
       ]
     },
     {
@@ -3325,7 +3411,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3346,7 +3432,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "hutker",
       "source_name": "Hutker Architects",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3368,7 +3454,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "hutker",
       "source_name": "Hutker Architects",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3389,7 +3475,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3411,7 +3497,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3433,7 +3519,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3454,7 +3540,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3476,7 +3562,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3497,7 +3583,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3519,7 +3605,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3540,7 +3626,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3561,7 +3647,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3583,7 +3669,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3604,7 +3690,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3626,7 +3712,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3648,7 +3734,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3670,7 +3756,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3691,7 +3777,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3712,7 +3798,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3734,7 +3820,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3755,7 +3841,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3776,7 +3862,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3797,7 +3883,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3819,7 +3905,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3840,7 +3926,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3861,7 +3947,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3882,7 +3968,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3903,7 +3989,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3925,7 +4011,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3947,7 +4033,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3969,7 +4055,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3991,7 +4077,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -4013,7 +4099,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -4035,7 +4121,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -4056,7 +4142,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -4077,7 +4163,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -4099,7 +4185,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -4121,7 +4207,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -4143,7 +4229,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -4165,7 +4251,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -4187,7 +4273,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -4209,12 +4295,33 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
         "Architecture",
         "Hybrid"
+      ]
+    },
+    {
+      "id": "crawl-aecom-dc508fb7e67a965e",
+      "title": "Urban Planner",
+      "firm_name": "AECOM",
+      "location": "Gurugram, HR, India",
+      "country": "India",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/AECOM2/744000143072808-urban-planner",
+      "prize_or_salary": null,
+      "posted_at": "2026-08-12T10:26:47.483Z",
+      "created_at": "2026-10-22T08:07:29.632Z",
+      "source": "aecom",
+      "source_name": "AECOM",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "Urban Planning"
       ]
     },
     {
@@ -4231,7 +4338,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -4253,7 +4360,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -4274,7 +4381,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -4295,7 +4402,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "wight",
       "source_name": "Wight & Company",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -4316,7 +4423,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -4337,7 +4444,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -4358,7 +4465,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -4379,7 +4486,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -4400,7 +4507,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -4421,7 +4528,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -4442,7 +4549,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -4463,7 +4570,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -4485,7 +4592,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -4507,7 +4614,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -4529,7 +4636,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -4551,7 +4658,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -4573,7 +4680,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -4594,7 +4701,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -4615,7 +4722,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -4636,7 +4743,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -4657,7 +4764,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -4679,7 +4786,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "wight",
       "source_name": "Wight & Company",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -4700,7 +4807,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-10-22T08:02:11.343Z",
+      "source_checked_at": "2026-10-22T08:07:29.632Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
