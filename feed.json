@@ -1,51 +1,95 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T09:31:10.122Z",
+  "generated_at": "2026-11-14T08:57:57.163Z",
   "sources": [
     {
       "id": "aecom",
       "name": "AECOM",
       "status": "ok",
-      "count": 133,
-      "checked_at": "2026-11-13T09:31:10.122Z"
+      "count": 131,
+      "checked_at": "2026-11-14T08:57:57.163Z"
     },
     {
       "id": "egis",
       "name": "Egis Group",
       "status": "ok",
-      "count": 9,
-      "checked_at": "2026-11-13T09:31:10.122Z"
+      "count": 45,
+      "checked_at": "2026-11-14T08:57:57.163Z"
     },
     {
       "id": "wight",
       "name": "Wight & Company",
       "status": "ok",
       "count": 5,
-      "checked_at": "2026-11-13T09:31:10.122Z"
+      "checked_at": "2026-11-14T08:57:57.163Z"
     },
     {
       "id": "tkda",
       "name": "TKDA",
       "status": "ok",
       "count": 3,
-      "checked_at": "2026-11-13T09:31:10.122Z"
+      "checked_at": "2026-11-14T08:57:57.163Z"
     },
     {
       "id": "hutker",
       "name": "Hutker Architects",
       "status": "ok",
       "count": 6,
-      "checked_at": "2026-11-13T09:31:10.122Z"
+      "checked_at": "2026-11-14T08:57:57.163Z"
     },
     {
       "id": "hush",
       "name": "HUSH",
       "status": "ok",
       "count": 0,
-      "checked_at": "2026-11-13T09:31:10.122Z"
+      "checked_at": "2026-11-14T08:57:57.163Z"
     }
   ],
   "jobs": [
+    {
+      "id": "crawl-aecom-02f50af1a85d4926",
+      "title": "Landscape Architecture Design Intern",
+      "firm_name": "AECOM",
+      "location": "New York, NY, United States",
+      "country": "USA",
+      "type": "Internship",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/AECOM2/744000161561540-landscape-architecture-design-intern",
+      "prize_or_salary": null,
+      "posted_at": "2026-11-13T19:28:43.725Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "aecom",
+      "source_name": "AECOM",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "Landscape",
+        "Hybrid"
+      ]
+    },
+    {
+      "id": "crawl-aecom-b6486331878b8d4d",
+      "title": "Architecture Designer",
+      "firm_name": "AECOM",
+      "location": "Hunt Valley, MD, United States",
+      "country": "USA",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/AECOM2/744000161523969-architecture-designer",
+      "prize_or_salary": null,
+      "posted_at": "2026-11-13T15:55:59.537Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "aecom",
+      "source_name": "AECOM",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "Architecture",
+        "Hybrid"
+      ]
+    },
     {
       "id": "crawl-aecom-9053648808b3e941",
       "title": "BIM Specialist -Structures",
@@ -60,7 +104,7 @@
       "created_at": "2026-11-13T09:31:10.122Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -81,7 +125,7 @@
       "created_at": "2026-11-13T09:31:10.122Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -102,7 +146,7 @@
       "created_at": "2026-11-13T09:31:10.122Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -124,7 +168,7 @@
       "created_at": "2026-11-13T09:31:10.122Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -146,7 +190,28 @@
       "created_at": "2026-11-13T09:31:10.122Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "BIM"
+      ]
+    },
+    {
+      "id": "crawl-egis-abec4874fc73d856",
+      "title": "Mechanical BIM Modeler",
+      "firm_name": "Egis Group",
+      "location": "Bengaluru, KA, India",
+      "country": "India",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000161228719-mechanical-bim-modeler",
+      "prize_or_salary": null,
+      "posted_at": "2026-11-12T07:19:27.909Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -167,7 +232,7 @@
       "created_at": "2026-11-12T09:50:19.442Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -189,7 +254,7 @@
       "created_at": "2026-11-12T09:50:19.442Z",
       "source": "wight",
       "source_name": "Wight & Company",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -210,7 +275,7 @@
       "created_at": "2026-11-12T09:50:19.442Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -231,7 +296,7 @@
       "created_at": "2026-11-12T09:50:19.442Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -253,7 +318,7 @@
       "created_at": "2026-11-12T09:50:19.442Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -274,12 +339,54 @@
       "created_at": "2026-11-11T09:25:25.731Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
         "BIM",
         "Hybrid"
+      ]
+    },
+    {
+      "id": "crawl-egis-bf5fd86dd7a4f624",
+      "title": "Senior BIM Designer - Rail",
+      "firm_name": "Egis Group",
+      "location": "Bengaluru, KA, India",
+      "country": "India",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000161027169-senior-bim-designer-rail",
+      "prize_or_salary": null,
+      "posted_at": "2026-11-11T05:38:34.133Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "BIM"
+      ]
+    },
+    {
+      "id": "crawl-egis-9449ae5309e965c3",
+      "title": "BIM Designer - Rail",
+      "firm_name": "Egis Group",
+      "location": "Bengaluru, KA, India",
+      "country": "India",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000161026499-bim-designer-rail",
+      "prize_or_salary": null,
+      "posted_at": "2026-11-11T05:24:40.906Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "BIM"
       ]
     },
     {
@@ -296,7 +403,7 @@
       "created_at": "2026-11-11T09:25:25.731Z",
       "source": "hutker",
       "source_name": "Hutker Architects",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -317,7 +424,7 @@
       "created_at": "2026-11-11T09:25:25.731Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -339,7 +446,7 @@
       "created_at": "2026-11-11T09:25:25.731Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -361,7 +468,7 @@
       "created_at": "2026-11-11T09:25:25.731Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -383,7 +490,7 @@
       "created_at": "2026-11-11T09:25:25.731Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -404,7 +511,7 @@
       "created_at": "2026-11-11T09:25:25.731Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -426,7 +533,7 @@
       "created_at": "2026-11-11T09:25:25.731Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -447,7 +554,7 @@
       "created_at": "2026-11-11T09:25:25.731Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -469,7 +576,7 @@
       "created_at": "2026-11-11T09:25:25.731Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -491,7 +598,7 @@
       "created_at": "2026-11-11T09:25:25.731Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -513,7 +620,7 @@
       "created_at": "2026-11-10T09:49:35.638Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -535,7 +642,7 @@
       "created_at": "2026-11-10T09:49:35.638Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -557,7 +664,7 @@
       "created_at": "2026-11-10T09:49:35.638Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -579,7 +686,7 @@
       "created_at": "2026-11-10T09:49:35.638Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -601,7 +708,7 @@
       "created_at": "2026-11-10T09:49:35.638Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -623,7 +730,7 @@
       "created_at": "2026-11-10T09:49:35.638Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -645,7 +752,7 @@
       "created_at": "2026-11-10T09:49:35.638Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -667,7 +774,7 @@
       "created_at": "2026-11-10T09:49:35.638Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -689,7 +796,7 @@
       "created_at": "2026-11-10T09:49:35.638Z",
       "source": "wight",
       "source_name": "Wight & Company",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -710,7 +817,7 @@
       "created_at": "2026-11-10T09:49:35.638Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -732,7 +839,7 @@
       "created_at": "2026-11-10T09:49:35.638Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -754,7 +861,7 @@
       "created_at": "2026-11-10T09:49:35.638Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -776,7 +883,7 @@
       "created_at": "2026-11-10T09:49:35.638Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -798,7 +905,7 @@
       "created_at": "2026-11-10T09:49:35.638Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -820,11 +927,55 @@
       "created_at": "2026-11-10T09:49:35.638Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
         "Architecture",
+        "Hybrid"
+      ]
+    },
+    {
+      "id": "crawl-egis-ad8767cd1c64aad7",
+      "title": "BIM Modeller - Electrical",
+      "firm_name": "Egis Group",
+      "location": "London, England, United Kingdom",
+      "country": "UK",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000160575379-bim-modeller-electrical",
+      "prize_or_salary": null,
+      "posted_at": "2026-11-09T10:16:17.432Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "BIM",
+        "Hybrid"
+      ]
+    },
+    {
+      "id": "crawl-egis-76198bbfa4064452",
+      "title": "BIM Coordinator",
+      "firm_name": "Egis Group",
+      "location": "Toronto, ON, Canada",
+      "country": "Canada",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000160295168-bim-coordinator",
+      "prize_or_salary": null,
+      "posted_at": "2026-11-06T20:28:24.881Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "BIM",
         "Hybrid"
       ]
     },
@@ -842,7 +993,7 @@
       "created_at": "2026-11-07T08:46:50.448Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -864,7 +1015,28 @@
       "created_at": "2026-11-06T09:23:44.411Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "Architecture"
+      ]
+    },
+    {
+      "id": "crawl-egis-41db5ef9679ec882",
+      "title": "Pre Graduate Architect Engineer (UAE National)",
+      "firm_name": "Egis Group",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "country": "UAE",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000160127169-pre-graduate-architect-engineer-uae-national",
+      "prize_or_salary": null,
+      "posted_at": "2026-11-06T07:21:17.968Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -885,7 +1057,7 @@
       "created_at": "2026-11-06T09:23:44.411Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -906,7 +1078,7 @@
       "created_at": "2026-11-06T09:23:44.411Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -927,7 +1099,7 @@
       "created_at": "2026-11-06T09:23:44.411Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -949,11 +1121,74 @@
       "created_at": "2026-11-05T09:29:14.163Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
         "BIM"
+      ]
+    },
+    {
+      "id": "crawl-egis-aead51698551680d",
+      "title": "Junior Intern Architects & Designers",
+      "firm_name": "Egis Group",
+      "location": "Toronto, ON, Canada",
+      "country": "Canada",
+      "type": "Internship",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000159678950-junior-intern-architects-designers",
+      "prize_or_salary": null,
+      "posted_at": "2026-11-04T16:33:40.474Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "Architecture"
+      ]
+    },
+    {
+      "id": "crawl-egis-1b93cbd70fcbf3ab",
+      "title": "Senior Architect (Major Aviation Infrastructure)",
+      "firm_name": "Egis Group",
+      "location": "Toronto, ON, Canada",
+      "country": "Canada",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000159679947-senior-architect-major-aviation-infrastructure",
+      "prize_or_salary": null,
+      "posted_at": "2026-11-04T16:32:31.427Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "Architecture"
+      ]
+    },
+    {
+      "id": "crawl-egis-0e7e7d2f88658bf4",
+      "title": "Senior Architect/Project Manager (Major Aviation Infrastructure)",
+      "firm_name": "Egis Group",
+      "location": "Toronto, ON, Canada",
+      "country": "Canada",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000159680959-senior-architect-project-manager-major-aviation-infrastructure",
+      "prize_or_salary": null,
+      "posted_at": "2026-11-04T16:31:23.013Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "Architecture"
       ]
     },
     {
@@ -970,12 +1205,33 @@
       "created_at": "2026-11-05T09:29:14.163Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
         "BIM",
         "Remote"
+      ]
+    },
+    {
+      "id": "crawl-egis-440a6ab5d7a15746",
+      "title": "Intermediate Architects & Designers",
+      "firm_name": "Egis Group",
+      "location": "Toronto, ON, Canada",
+      "country": "Canada",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000159650129-intermediate-architects-designers",
+      "prize_or_salary": null,
+      "posted_at": "2026-11-04T14:37:43.132Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "Architecture"
       ]
     },
     {
@@ -992,7 +1248,7 @@
       "created_at": "2026-11-05T09:29:14.163Z",
       "source": "wight",
       "source_name": "Wight & Company",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1013,7 +1269,7 @@
       "created_at": "2026-11-05T09:29:14.163Z",
       "source": "wight",
       "source_name": "Wight & Company",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1034,7 +1290,7 @@
       "created_at": "2026-11-05T09:29:14.163Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1056,7 +1312,7 @@
       "created_at": "2026-11-04T09:11:15.214Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1078,7 +1334,7 @@
       "created_at": "2026-11-04T09:11:15.214Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1100,7 +1356,7 @@
       "created_at": "2026-11-04T09:11:15.214Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1122,7 +1378,7 @@
       "created_at": "2026-11-04T09:11:15.214Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1144,7 +1400,7 @@
       "created_at": "2026-11-04T09:11:15.214Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1166,7 +1422,7 @@
       "created_at": "2026-11-04T09:11:15.214Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1188,12 +1444,33 @@
       "created_at": "2026-11-04T09:11:15.214Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
         "Interior Design",
         "Hybrid"
+      ]
+    },
+    {
+      "id": "crawl-egis-be16f081cec0b929",
+      "title": "Architectural Designer",
+      "firm_name": "Egis Group",
+      "location": "Singapore, , Singapore",
+      "country": "Singapore",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000159345379-architectural-designer",
+      "prize_or_salary": null,
+      "posted_at": "2026-11-03T10:12:07.180Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "Architecture"
       ]
     },
     {
@@ -1210,7 +1487,7 @@
       "created_at": "2026-11-04T09:11:15.214Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1232,7 +1509,7 @@
       "created_at": "2026-11-02T09:29:56.821Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1254,7 +1531,7 @@
       "created_at": "2026-11-02T09:29:56.821Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1276,7 +1553,7 @@
       "created_at": "2026-11-02T09:29:56.821Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1298,7 +1575,7 @@
       "created_at": "2026-10-30T08:39:22.374Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1319,7 +1596,7 @@
       "created_at": "2026-10-30T08:39:22.374Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1341,7 +1618,7 @@
       "created_at": "2026-10-30T08:39:22.374Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1363,7 +1640,7 @@
       "created_at": "2026-10-30T08:39:22.374Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1385,7 +1662,7 @@
       "created_at": "2026-10-30T08:39:22.374Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1407,7 +1684,7 @@
       "created_at": "2026-10-30T08:39:22.374Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1429,7 +1706,7 @@
       "created_at": "2026-10-29T08:28:46.113Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1451,7 +1728,7 @@
       "created_at": "2026-10-29T08:28:46.113Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1473,12 +1750,55 @@
       "created_at": "2026-10-29T08:28:46.113Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
         "Architecture",
         "Hybrid"
+      ]
+    },
+    {
+      "id": "crawl-egis-265470e7adea3e78",
+      "title": "Senior BIM Modeler- Mechanical",
+      "firm_name": "Egis Group",
+      "location": "Bengaluru, KA, India",
+      "country": "India",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000158266059-senior-bim-modeler-mechanical",
+      "prize_or_salary": null,
+      "posted_at": "2026-10-28T11:17:28.253Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "BIM",
+        "Hybrid"
+      ]
+    },
+    {
+      "id": "crawl-egis-64c5a90b47d72e63",
+      "title": "Senior Architect - Site",
+      "firm_name": "Egis Group",
+      "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
+      "country": "UAE",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000158205549-senior-architect-site",
+      "prize_or_salary": null,
+      "posted_at": "2026-10-28T05:09:37.962Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "Architecture"
       ]
     },
     {
@@ -1495,7 +1815,7 @@
       "created_at": "2026-10-28T08:31:41.374Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1516,11 +1836,33 @@
       "created_at": "2026-10-28T08:31:41.374Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
         "Architecture",
+        "Hybrid"
+      ]
+    },
+    {
+      "id": "crawl-egis-0aa8a2946a04518f",
+      "title": "Senior BIM Modeler – Civil 3D (Utilities, Roads & Surfaces)",
+      "firm_name": "Egis Group",
+      "location": "Toronto, ON, Canada",
+      "country": "Canada",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000157900250-senior-bim-modeler-civil-3d-utilities-roads-surfaces",
+      "prize_or_salary": null,
+      "posted_at": "2026-10-26T19:44:52.318Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "BIM",
         "Hybrid"
       ]
     },
@@ -1538,7 +1880,7 @@
       "created_at": "2026-10-27T07:51:44.743Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1560,7 +1902,7 @@
       "created_at": "2026-10-24T07:17:41.864Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1581,7 +1923,7 @@
       "created_at": "2026-10-24T07:17:41.864Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1602,7 +1944,7 @@
       "created_at": "2026-10-24T07:17:41.864Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1623,7 +1965,7 @@
       "created_at": "2026-10-24T07:17:41.864Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1644,7 +1986,7 @@
       "created_at": "2026-10-24T07:17:41.864Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1665,7 +2007,28 @@
       "created_at": "2026-10-24T07:17:41.864Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "BIM"
+      ]
+    },
+    {
+      "id": "crawl-egis-bc331f53d26f9743",
+      "title": "Senior BIM Designer - Electrical",
+      "firm_name": "Egis Group",
+      "location": "Bengaluru, KA, India",
+      "country": "India",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000157400579-senior-bim-designer-electrical",
+      "prize_or_salary": null,
+      "posted_at": "2026-10-23T07:26:05.671Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1686,7 +2049,7 @@
       "created_at": "2026-10-23T07:32:08.412Z",
       "source": "wight",
       "source_name": "Wight & Company",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1707,7 +2070,7 @@
       "created_at": "2026-10-23T07:32:08.412Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1729,7 +2092,7 @@
       "created_at": "2026-10-23T07:32:08.412Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1751,7 +2114,7 @@
       "created_at": "2026-10-23T07:32:08.412Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1773,7 +2136,28 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "BIM"
+      ]
+    },
+    {
+      "id": "crawl-egis-446a82bc7cd46b58",
+      "title": "BIM Modeler- Electrical",
+      "firm_name": "Egis Group",
+      "location": "Bengaluru, KA, India",
+      "country": "India",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000157035449-bim-modeler-electrical",
+      "prize_or_salary": null,
+      "posted_at": "2026-10-22T04:46:28.536Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1794,12 +2178,54 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
         "BIM",
         "Hybrid"
+      ]
+    },
+    {
+      "id": "crawl-egis-947786376f4308a0",
+      "title": "BIM Modeler - Public Health",
+      "firm_name": "Egis Group",
+      "location": "Bengaluru, KA, India",
+      "country": "India",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000156791229-bim-modeler-public-health",
+      "prize_or_salary": null,
+      "posted_at": "2026-10-21T12:34:27.148Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "BIM"
+      ]
+    },
+    {
+      "id": "crawl-egis-278ca9040b49c0c5",
+      "title": "BIM Manager - Infrastructure (Utilities & Roads)",
+      "firm_name": "Egis Group",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "country": "UAE",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000156721939-bim-manager-infrastructure-utilities-roads",
+      "prize_or_salary": null,
+      "posted_at": "2026-10-21T06:51:10.338Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "BIM"
       ]
     },
     {
@@ -1816,7 +2242,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1838,7 +2264,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1859,7 +2285,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1881,7 +2307,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1903,7 +2329,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1925,7 +2351,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1947,7 +2373,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1969,7 +2395,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -1991,7 +2417,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2013,7 +2439,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "tkda",
       "source_name": "TKDA",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2035,11 +2461,32 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
         "Architecture"
+      ]
+    },
+    {
+      "id": "crawl-egis-50426210e40b0862",
+      "title": "Mechanical -BIM - UK/Ireland or France Project experience",
+      "firm_name": "Egis Group",
+      "location": "Bengaluru, KA, India",
+      "country": "India",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000155669520-mechanical-bim-uk-ireland-or-france-project-experience",
+      "prize_or_salary": null,
+      "posted_at": "2026-10-15T06:06:27.730Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "BIM"
       ]
     },
     {
@@ -2056,7 +2503,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2078,7 +2525,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2100,7 +2547,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2121,7 +2568,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2142,7 +2589,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2164,7 +2611,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2186,7 +2633,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2208,7 +2655,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2230,12 +2677,33 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
         "Architecture",
         "Hybrid"
+      ]
+    },
+    {
+      "id": "crawl-egis-28225f21999b2f46",
+      "title": "Site Design Coordinator (Architect)",
+      "firm_name": "Egis Group",
+      "location": "Lucknow, UP, India",
+      "country": "India",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000154599259-site-design-coordinator-architect",
+      "prize_or_salary": null,
+      "posted_at": "2026-10-09T06:57:35.746Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "Architecture"
       ]
     },
     {
@@ -2252,7 +2720,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2274,7 +2742,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2296,7 +2764,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2318,7 +2786,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2340,7 +2808,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2361,7 +2829,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2383,7 +2851,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2404,7 +2872,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2425,7 +2893,28 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "Architecture"
+      ]
+    },
+    {
+      "id": "crawl-egis-e486a2e445988b4f",
+      "title": "Senior Architectural Inspector",
+      "firm_name": "Egis Group",
+      "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
+      "country": "UAE",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000153451989-senior-architectural-inspector",
+      "prize_or_salary": null,
+      "posted_at": "2026-10-05T09:44:25.920Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2446,7 +2935,7 @@
       "created_at": "2026-10-28T08:31:41.374Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2468,7 +2957,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2490,7 +2979,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2512,7 +3001,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2534,7 +3023,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2555,12 +3044,33 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
         "Interior Design",
         "Hybrid"
+      ]
+    },
+    {
+      "id": "crawl-egis-29bef9e78163ca88",
+      "title": "BIM Designer- Wet Utilities (Infrastructure)",
+      "firm_name": "Egis Group",
+      "location": "Bengaluru, KA, India",
+      "country": "India",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000151795509-bim-designer-wet-utilities-infrastructure",
+      "prize_or_salary": null,
+      "posted_at": "2026-09-25T08:58:09.611Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "BIM"
       ]
     },
     {
@@ -2577,7 +3087,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2599,7 +3109,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "hutker",
       "source_name": "Hutker Architects",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2621,7 +3131,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2643,7 +3153,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2665,7 +3175,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2687,7 +3197,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2708,7 +3218,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2730,7 +3240,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2752,7 +3262,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2775,12 +3285,34 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
         "Landscape",
         "Urban Planning",
+        "Hybrid"
+      ]
+    },
+    {
+      "id": "crawl-egis-7da2c6c9ab5d56bf",
+      "title": "BIM Coordinator - MEP",
+      "firm_name": "Egis Group",
+      "location": "London, England, United Kingdom",
+      "country": "UK",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000150702639-bim-coordinator-mep",
+      "prize_or_salary": null,
+      "posted_at": "2026-09-21T13:41:41.692Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "BIM",
         "Hybrid"
       ]
     },
@@ -2798,12 +3330,33 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
         "Architecture",
         "Hybrid"
+      ]
+    },
+    {
+      "id": "crawl-egis-d94a2942e15e0497",
+      "title": "Senior BIM Designer - Bridges",
+      "firm_name": "Egis Group",
+      "location": "Bengaluru, KA, India",
+      "country": "India",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000149778189-senior-bim-designer-bridges",
+      "prize_or_salary": null,
+      "posted_at": "2026-09-16T06:02:12.238Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "BIM"
       ]
     },
     {
@@ -2820,7 +3373,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2843,7 +3396,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2865,7 +3418,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2887,7 +3440,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2909,7 +3462,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2931,7 +3484,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "tkda",
       "source_name": "TKDA",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2952,7 +3505,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "tkda",
       "source_name": "TKDA",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2973,7 +3526,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -2982,90 +3535,66 @@
       ]
     },
     {
-      "id": "crawl-aecom-b78fe08fc6126d64",
-      "title": "Relocate to Australia - Associate Director – Architecture (NSQEP)",
-      "firm_name": "AECOM",
-      "location": "Warrington, England, United Kingdom",
-      "country": "UK",
+      "id": "crawl-egis-c3480aed6e9705e7",
+      "title": "BIM Designer - Mechanical (Revit) (Infrastructure)",
+      "firm_name": "Egis Group",
+      "location": "Bengaluru, KA, India",
+      "country": "India",
       "type": "Full-time",
       "description": null,
-      "apply_url": "https://jobs.smartrecruiters.com/AECOM2/744000148356279-relocate-to-australia-associate-director-architecture-nsqep",
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000148139926-bim-designer-mechanical-revit-infrastructure",
       "prize_or_salary": null,
-      "posted_at": "2026-09-08T22:54:32.492Z",
-      "created_at": "2026-10-22T08:02:11.343Z",
-      "source": "aecom",
-      "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "posted_at": "2026-09-08T05:52:52.543Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
-        "Architecture"
+        "BIM"
       ]
     },
     {
-      "id": "crawl-aecom-e168e7234943cc8a",
-      "title": "Relocate to Australia - Associate Director – Architecture (NSQEP)",
-      "firm_name": "AECOM",
-      "location": "Bristol, England, United Kingdom",
-      "country": "UK",
+      "id": "crawl-egis-ed38bd26521cdc84",
+      "title": "BIM Structure",
+      "firm_name": "Egis Group",
+      "location": "Bengaluru, KA, India",
+      "country": "India",
       "type": "Full-time",
       "description": null,
-      "apply_url": "https://jobs.smartrecruiters.com/AECOM2/744000148356139-relocate-to-australia-associate-director-architecture-nsqep",
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000147871272-bim-structure",
       "prize_or_salary": null,
-      "posted_at": "2026-09-08T22:53:46.149Z",
-      "created_at": "2026-10-22T08:02:11.343Z",
-      "source": "aecom",
-      "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "posted_at": "2026-09-07T09:07:30.461Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
-        "Architecture",
-        "Hybrid"
+        "BIM"
       ]
     },
     {
-      "id": "crawl-aecom-b10e45dc430e6699",
-      "title": "Relocate to Australia - Associate Director - Project Architect (NSQEP)",
-      "firm_name": "AECOM",
-      "location": "Glasgow, Scotland, United Kingdom",
-      "country": "UK",
+      "id": "crawl-egis-e3c832bf426e383b",
+      "title": "BIM Architectural",
+      "firm_name": "Egis Group",
+      "location": "Bengaluru, KA, India",
+      "country": "India",
       "type": "Full-time",
       "description": null,
-      "apply_url": "https://jobs.smartrecruiters.com/AECOM2/744000148356019-relocate-to-australia-associate-director-project-architect-nsqep",
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000147876540-bim-architectural",
       "prize_or_salary": null,
-      "posted_at": "2026-09-08T22:53:02.357Z",
-      "created_at": "2026-10-22T08:02:11.343Z",
-      "source": "aecom",
-      "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "posted_at": "2026-09-07T09:03:22.018Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
-        "Architecture",
-        "Hybrid"
-      ]
-    },
-    {
-      "id": "crawl-aecom-57c168e01ada2cda",
-      "title": "Associate Director - Project Architect (NSQEP)",
-      "firm_name": "AECOM",
-      "location": "Adelaide, SA, Australia",
-      "country": "Australia",
-      "type": "Full-time",
-      "description": null,
-      "apply_url": "https://jobs.smartrecruiters.com/AECOM2/744000148353656-associate-director-project-architect-nsqep",
-      "prize_or_salary": null,
-      "posted_at": "2026-09-08T22:46:38.692Z",
-      "created_at": "2026-11-13T09:31:10.122Z",
-      "source": "aecom",
-      "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
-      "availability": "listed-on-source",
-      "verified": false,
-      "match_tags": [
-        "Architecture",
-        "Hybrid"
+        "BIM"
       ]
     },
     {
@@ -3082,7 +3611,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "hutker",
       "source_name": "Hutker Architects",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3104,7 +3633,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3126,7 +3655,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3148,7 +3677,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "hutker",
       "source_name": "Hutker Architects",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3170,7 +3699,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3191,7 +3720,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "hutker",
       "source_name": "Hutker Architects",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3213,7 +3742,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3235,7 +3764,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3256,7 +3785,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3277,7 +3806,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3298,7 +3827,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "hutker",
       "source_name": "Hutker Architects",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3320,7 +3849,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3342,7 +3871,7 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
@@ -3364,11 +3893,32 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
         "Landscape"
+      ]
+    },
+    {
+      "id": "crawl-egis-2f0982cb8d735d2d",
+      "title": "BIM Modeler- Coastal",
+      "firm_name": "Egis Group",
+      "location": "Bengaluru, KA, India",
+      "country": "India",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000145186875-bim-modeler-coastal",
+      "prize_or_salary": null,
+      "posted_at": "2026-08-24T05:28:50.303Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "BIM"
       ]
     },
     {
@@ -3385,11 +3935,74 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
         "Architecture"
+      ]
+    },
+    {
+      "id": "crawl-egis-fc5b49651c34c3d4",
+      "title": "Civils Site Grading- BIM",
+      "firm_name": "Egis Group",
+      "location": "Bengaluru, KA, India",
+      "country": "India",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000144681689-civils-site-grading-bim",
+      "prize_or_salary": null,
+      "posted_at": "2026-08-21T04:06:29.734Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "BIM"
+      ]
+    },
+    {
+      "id": "crawl-egis-e3b9f3232c87cb5c",
+      "title": "BIM Modeller (Bentley – MEP)",
+      "firm_name": "Egis Group",
+      "location": "Bengaluru, KA, India",
+      "country": "India",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000144468612-bim-modeller-bentley-mep",
+      "prize_or_salary": null,
+      "posted_at": "2026-08-20T06:58:59.242Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "BIM"
+      ]
+    },
+    {
+      "id": "crawl-egis-80aa7a8f29d16fdc",
+      "title": "BIM Coordinator - Infrastructure",
+      "firm_name": "Egis Group",
+      "location": "Bengaluru, KA, India",
+      "country": "India",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000144455349-bim-coordinator-infrastructure",
+      "prize_or_salary": null,
+      "posted_at": "2026-08-20T04:27:23.303Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "BIM"
       ]
     },
     {
@@ -3406,12 +4019,75 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "aecom",
       "source_name": "AECOM",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
         "Interior Design",
         "Hybrid"
+      ]
+    },
+    {
+      "id": "crawl-egis-f35ea428862e7145",
+      "title": "Building Structural BIM",
+      "firm_name": "Egis Group",
+      "location": "Bengaluru, KA, India",
+      "country": "India",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000144307029-building-structural-bim",
+      "prize_or_salary": null,
+      "posted_at": "2026-08-19T12:33:05.769Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "BIM"
+      ]
+    },
+    {
+      "id": "crawl-egis-149d041561c4a5c5",
+      "title": "Electrical Design BIM",
+      "firm_name": "Egis Group",
+      "location": "Bengaluru, KA, India",
+      "country": "India",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000144304920-electrical-design-bim",
+      "prize_or_salary": null,
+      "posted_at": "2026-08-19T12:30:26.230Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "BIM"
+      ]
+    },
+    {
+      "id": "crawl-egis-7aebe60fb17c3b5e",
+      "title": "Mechanical -BIM",
+      "firm_name": "Egis Group",
+      "location": "Bengaluru, KA, India",
+      "country": "India",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000144305738-mechanical-bim",
+      "prize_or_salary": null,
+      "posted_at": "2026-08-19T12:29:17.309Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "BIM"
       ]
     },
     {
@@ -3428,12 +4104,54 @@
       "created_at": "2026-10-22T08:02:11.343Z",
       "source": "egis",
       "source_name": "Egis Group",
-      "source_checked_at": "2026-11-13T09:31:10.122Z",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
       "availability": "listed-on-source",
       "verified": false,
       "match_tags": [
         "BIM",
         "Hybrid"
+      ]
+    },
+    {
+      "id": "crawl-egis-f2358f641bd1b67f",
+      "title": "Junior and Intermediate Architects or Designers",
+      "firm_name": "Egis Group",
+      "location": "Toronto, ON, Canada",
+      "country": "Canada",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000143893999-junior-and-intermediate-architects-or-designers",
+      "prize_or_salary": null,
+      "posted_at": "2026-08-17T17:42:02.735Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "Architecture"
+      ]
+    },
+    {
+      "id": "crawl-egis-e68da90840b9a4c6",
+      "title": "BIM Coordinator",
+      "firm_name": "Egis Group",
+      "location": "Toronto, ON, Canada",
+      "country": "Canada",
+      "type": "Full-time",
+      "description": null,
+      "apply_url": "https://jobs.smartrecruiters.com/EgisGroup/744000143893778-bim-coordinator",
+      "prize_or_salary": null,
+      "posted_at": "2026-08-17T17:41:03.845Z",
+      "created_at": "2026-11-14T08:57:57.163Z",
+      "source": "egis",
+      "source_name": "Egis Group",
+      "source_checked_at": "2026-11-14T08:57:57.163Z",
+      "availability": "listed-on-source",
+      "verified": false,
+      "match_tags": [
+        "BIM"
       ]
     }
   ]
